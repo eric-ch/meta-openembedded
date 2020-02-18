@@ -46,7 +46,7 @@ RDEPENDS_packagegroup-meta-oe = "\
 "
 
 RDEPENDS_packagegroup-meta-oe-benchmarks = "\
-    analyze-suspend dhrystone iperf2 linpack phoronix-test-suite \
+    pm-graph dhrystone iperf2 linpack phoronix-test-suite \
     tiobench bonnie++ fio iperf2 iperf3 lmbench s-suite whetstone \
     libc-bench memtester sysbench dbench iozone3 libhugetlbfs \
     nbench-byte tinymembench \
